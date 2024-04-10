@@ -34,5 +34,8 @@
 
 ![Alt text](imagenes/Screenshot_20240410_193123.png)
 
-## 
+## Comprueba que los dos servidores 'sirven' la misma página, es decir, cuando consultamos en el navegador:
 
+![Alt text](imagenes/Screenshot_20240410_193248.png)
+
+![Alt text](imagenes/Screenshot_20240410_193313.png)
