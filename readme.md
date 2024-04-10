@@ -30,5 +30,9 @@
 
 ![Alt text](imagenes/Screenshot_20240410_192821.png)
 
+## Crea otro contenedor 'asir_web2' con el mismo directorio y a otro puerto, por ejemplo 9080.
+
+![Alt text](imagenes/Screenshot_20240410_193123.png)
+
 ## 
 
