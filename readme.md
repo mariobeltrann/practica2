@@ -12,4 +12,9 @@
 
 ## Utiliza bind mount para que el directorio del apache2 'htdocs' este montado un directorio que tu elijas.
 
-![Alt text](imagenes/Screenshot_20240410_185732.png)
+![Alt text](imagenes/Screenshot_20240410_190517.png)
+
+## Realiza un 'hola mundo' en html y comprueba que accedes desde el navegador.
+
+![Alt text](imagenes/Screenshot_20240410_190200.png)
+
