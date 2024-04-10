@@ -22,3 +22,7 @@
 
 ![Alt text](imagenes/Screenshot_20240410_191307.png)
 
+## Crea un contenedor 'asir_web1' que use este mismo directorio para 'htdocs' y el puerto 8000
+
+![Alt text](imagenes/Screenshot_20240410_192232.png)
+
