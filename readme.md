@@ -12,4 +12,4 @@
 
 ## Utiliza bind mount para que el directorio del apache2 'htdocs' este montado un directorio que tu elijas.
 
-![Alt text](imagenes/Screenshot_20240410_185219.png)
+![Alt text](imagenes/Screenshot_20240410_185732.png)
