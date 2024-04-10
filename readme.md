@@ -39,3 +39,7 @@
 ![Alt text](imagenes/Screenshot_20240410_193248.png)
 
 ![Alt text](imagenes/Screenshot_20240410_193313.png)
+
+![Alt text](imagenes/Screenshot_20240410_193555.png)
+
+![Alt text](imagenes/Screenshot_20240410_193612.png)
